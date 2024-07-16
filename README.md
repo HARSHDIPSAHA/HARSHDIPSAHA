@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HARSHDIPSAHA
+- 👋 Hey, myself Harshdip Saha
 - 👀 I’m interested in Machine Learning,DSA ,AI,LLMs
 - 🌱 I’m currently learning CSE FROM NSUT MAIN CAMPUS(23-27) with specilisation in AI.
 - 💞️ I’m exploring the field of DSA with C++ and AI with python.
