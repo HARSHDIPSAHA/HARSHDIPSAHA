@@ -37,7 +37,7 @@ Hugging Face, Kaggle
 ---
 
 ### 🧠 Highlights
-- 🌍 **World Rank 3** — BraTS Lighthouse 2025 Tumor Progression Challenge  
+- 🌍 **World Rank 3** — BraTS Lighthouse 2025 Tumor Progression Challenge(at South Korea) 
 - 📄 Paper accepted at **MICCAI 2025** (Oral Presentation)  
 - 🔬 Research contributor at **NextGen AI Lab, NSUT**  
 - 💻 Solved **1000+ DSA problems** across platforms; Codeforces **Pupil**  
