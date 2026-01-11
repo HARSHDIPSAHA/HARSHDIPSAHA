@@ -1,4 +1,4 @@
-Hi, I’m **Harshdip Saha** 👋
+Hi, I am **Harshdip Saha** 👋
 
 🎓 I’m a Computer Science undergraduate at **Netaji Subhas University of Technology (NSUT)**, pursuing a B.Tech in CSE with a specialization in **Artificial Intelligence** (2023–2027).
 
@@ -6,7 +6,7 @@ I’m genuinely interested in building systems at the intersection of **Machine 
 
 ---
 
-### 🔍 What I’m currently focused on
+### 💡 What I’m currently focused on
 - Machine Learning & Deep Learning (Computer Vision, NLP, multimodal models)
 - Large Language Models and applied AI systems
 - Writing efficient C++ for DSA and competitive programming
@@ -36,7 +36,7 @@ Hugging Face, Kaggle
 
 ---
 
-### 🧠 Highlights
+### 🐉 Highlights
 - 🌍 **World Rank 3** — BraTS Lighthouse 2025 Tumor Progression Challenge(at South Korea) 
 - 📄 Paper accepted at **MICCAI 2025** (Oral Presentation)  
 - 🔬 Research contributor at **NextGen AI Lab, NSUT**  
