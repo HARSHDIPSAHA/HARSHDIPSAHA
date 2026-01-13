@@ -6,6 +6,11 @@ I’m genuinely interested in building systems at the intersection of **Machine 
 
 ---
 
+### Driving thought
+
+> *"Trying to understand neurons inside me to build scalable ML solutions ;)"*
+
+---
 ### 💡 What I’m currently focused on
 - Machine Learning & Deep Learning (Computer Vision, NLP, multimodal models)
 - Large Language Models and applied AI systems
