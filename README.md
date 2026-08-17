@@ -11,7 +11,8 @@ I am a Computer Science undergraduate at **Netaji Subhas University of Technolog
 ---
 ### What I’m currently focused on
 - Computer Vision specifically medical imaging
-- Large Language Models 
+- LLMs - safety and alignment
+- Vision models blackbox understanding
 - Natural Language Processing
 - Open source and Democratic AI
 
@@ -22,7 +23,7 @@ I love brain, and its inspired algorithms.
 ### Technical Skills
 
 **Languages**  
-Python, C/C++, MATLAB, SQL, JavaScript, HTML/CSS  
+Python, C/C++, MATLAB, SQL, HTML/CSS  
 
 **ML & AI**  
 PyTorch, TensorFlow, MONAI, Scikit-learn, XGBoost  
@@ -32,7 +33,7 @@ LangChain, spaCy, NLTK
 **Tools & Platforms**  
 Git & GitHub, Docker  
 Google Cloud Platform (GCP), Microsoft Azure  
-Jupyter Notebook, VS Code, Streamlit, Tkinter  
+Jupyter Notebook, VS Code, Streamlit, Tkinter,
 
 **Databases & Services**  
 MySQL, PostgreSQL, Azure Blob Storage  
